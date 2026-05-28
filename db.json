@@ -1,5 +1,18 @@
 {
   "logos": [],
-  "templates": [],
+  "templates": [
+    {
+      "name": "Carátula Windows",
+      "path": "templates/games_for_windows___cover_template_by_bigmachete_dkgv22v.png",
+      "system": "windows",
+      "tags": ["windows", "pc", "cover"]
+    },
+    {
+      "name": "Carátula PlayStation 2 DVD",
+      "path": "templates/ps2_caratula.png",
+      "system": "ps2",
+      "tags": ["sony", "ps2", "dvd"]
+    }
+  ],
   "psd": []
 }
