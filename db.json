@@ -3,7 +3,7 @@
   "templates": [
     {
       "name": "Carátula Windows",
-      "path": "templates/games_for_windows___cover_template_by_bigmachete_dkgv22v.png",
+      "path": "Cover Template/games_for_windows___cover_template_by_bigmachete_dkgv22v.png",
       "system": "windows",
       "tags": ["windows", "pc", "cover"]
     },
